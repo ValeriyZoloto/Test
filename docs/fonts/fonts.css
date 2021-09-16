@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'Calibri-Bold';
+  font-weight: 700;
+  font-style: normal;
+  src: local('Calibri-Bold'),
+    url(Calibri-Bold.woff2) format('woff2'),
+    url(Calibri-Bold.woff) format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Calibri';
+  font-weight: 400;
+  font-style: normal;
+  src: local('Calibri'),
+    url(Calibri.woff2) format('woff2'),
+    url(Calibri.woff) format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SFUIDisplay-Medium';
+  font-weight: 500;
+  font-style: normal;
+  src: local('SFUIDisplay-Medium'),
+    url(SFUIDisplay-Medium.woff2) format('woff2'),
+    url(SFUIDisplay-Medium.woff) format('woff');
+  font-display: swap;
+}
